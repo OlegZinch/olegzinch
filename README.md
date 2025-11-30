@@ -1,6 +1,5 @@
 # Oleh Zinchenko
 
-**Ph:** +353 (87) 491 6569  
 **Email:** olehzinchenko.zo@gmail.com  
 **LinkedIn:** https://www.linkedin.com/in/olehzinchenko  
 **GitHub 1:** https://github.com/OlegZinch  
