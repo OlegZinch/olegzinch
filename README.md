@@ -115,6 +115,7 @@ Developed cross-platform desktop and mobile applications, working with modern Ja
 
 ## Professional Certifications & Courses
 
+- 2025 — The Ultimate React Course 2025: React, Next.js, Redux & More, Udemy 
 - 2025 — SQL and PostgreSQL: The Complete Developer's Guide, Udemy 
 - 2025 — Local LLMs via Ollama & LM Studio - The Practical Guide, Udemy
 - 2025 — Docker & Kubernetes: The Practical Guide [2025 Edition], Udemy
@@ -133,7 +134,7 @@ Developed cross-platform desktop and mobile applications, working with modern Ja
 - 2020 — React + Redux - Professional Development, Udemy
 - 2016 — Responsive Website Basics: Code with HTML, CSS, and JavaScript, University of London
 
-Full list of 27 certifications available on LinkedIn.
+Full list of 28 certifications available on LinkedIn.
 
 ---
 
