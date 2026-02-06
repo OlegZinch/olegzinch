@@ -115,6 +115,7 @@ Developed cross-platform desktop and mobile applications, working with modern Ja
 
 ## Professional Certifications & Courses
 
+- 2026 — GitHub Actions - The Complete Guide, Udemy
 - 2025 — The Ultimate React Course 2025: React, Next.js, Redux & More, Udemy 
 - 2025 — SQL and PostgreSQL: The Complete Developer's Guide, Udemy 
 - 2025 — Local LLMs via Ollama & LM Studio - The Practical Guide, Udemy
