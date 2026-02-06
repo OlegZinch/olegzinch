@@ -135,7 +135,7 @@ Developed cross-platform desktop and mobile applications, working with modern Ja
 - 2020 — React + Redux - Professional Development, Udemy
 - 2016 — Responsive Website Basics: Code with HTML, CSS, and JavaScript, University of London
 
-Full list of 28 certifications available on LinkedIn.
+Full list of 29 certifications available on LinkedIn.
 
 ---
 
