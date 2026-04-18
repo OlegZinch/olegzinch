@@ -25,6 +25,8 @@ Experienced Frontend Engineer with 6.5+ years in React/Next.js and 2 years in Re
 **Fiserv. — Nenagh, Ireland (On-site)**  
 **(Feb 2026 – Present)**
 
+Working on fintech payment solutions at Fiserv
+
 ---
 
 ### Relocation & Skill Enhancement Period  
