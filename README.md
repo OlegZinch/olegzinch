@@ -22,8 +22,10 @@ Experienced Frontend Engineer with 6.5+ years in React/Next.js and 2 years in Re
 ## Work Experience
 
 ### Software Engineer
-**Fiserv. — Nenagh, Ireland (On-site)** 
+**Fiserv. — Nenagh, Ireland (On-site)**  
 **(Feb 2026 – Present)**
+
+---
 
 ### Relocation & Skill Enhancement Period  
 **(Jan 2024 – Feb 2026)**
