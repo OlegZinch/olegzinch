@@ -21,10 +21,14 @@ Experienced Frontend Engineer with 6.5+ years in React/Next.js and 2 years in Re
 
 ## Work Experience
 
-### Relocation & Skill Enhancement Period  
-**(Jan 2024 – Present)**
+### Software Engineer
+**Fiserv. — Nenagh, Ireland (On-site)** 
+**(Feb 2026 – Present)**
 
-After relocating to Ireland, focused on professional development — completed over 10 Udemy certifications in React, Next.js, TypeScript, Node.js, PostgreSQL, MongoDB, Docker, Kubernetes, AWS, and Generative AI. Built several study projects to strengthen and update technical expertise.
+### Relocation & Skill Enhancement Period  
+**(Jan 2024 – Feb 2026)**
+
+After relocating to Ireland, I focused on professional development — completed over 10 Udemy certifications in React, Next.js, TypeScript, Node.js, PostgreSQL, MongoDB, Docker, Kubernetes, AWS, and Generative AI. Built several study projects to strengthen and update technical expertise.
 
 ---
 
